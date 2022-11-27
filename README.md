@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sophia-Shihao-Bao
-- 👀 I’m interested in Data science, Coding and Robots
-- 🌱 I’m currently learning Pandas and Numpy with Plotly.
+- 👀 I’m interested in Data science, Coding, Robotics and medical science.
+- 🌱 I’m currently learning Pandas and Numpy with Plotly and Streamlit.
 - 📫 How to reach me: sophia.bao20@gmail.com
 - My Website: sophiabao.cn
 
