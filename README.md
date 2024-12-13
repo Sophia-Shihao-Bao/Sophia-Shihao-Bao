@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science, Coding, Robotics and Biomedical Engineering.
 - 🌱 I’m currently learning Pandas and Numpy with Plotly and Streamlit.
 - 📫 How to reach me: sophia.bao20@gmail.com
-- My Website: sophiabao.com
+- My Website: www.sophiabao.com
 
 <!---
 Sophia-Shihao-Bao/Sophia-Shihao-Bao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
